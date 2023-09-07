@@ -1,6 +1,6 @@
 {
   "name": "nodepacky",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "testing uploading packages to NPM",
   "main": "index.js",
   "scripts": {
@@ -13,7 +13,7 @@
   "keywords": [
     "shadow"
   ],
-  "author": "kali",
+  "author": "Kali Veeresh",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Veeresh-alt/nodePack/issues"
